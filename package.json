@@ -1,0 +1,34 @@
+{
+  "name": "scrape-github-trending",
+  "version": "0.0.0",
+  "description": "Tutorial for web scraping / crawling with Node.js.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/scrape-github-trending",
+  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "license": "MIT",
+  "bin": {
+    "scrape-github-trending": "index.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "crawl",
+    "scrape",
+    "cheerio",
+    "got",
+    "github",
+    "trending"
+  ],
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^9.6.0",
+    "p-map": "^2.1.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

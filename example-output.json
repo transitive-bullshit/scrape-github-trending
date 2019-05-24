@@ -1,0 +1,619 @@
+[
+  {
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "userName": "jlevy",
+    "repoName": "the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "numCommits": "1,184",
+    "numIssues": 72,
+    "numPRs": 47,
+    "numProjects": 0,
+    "numWatchers": 1548,
+    "numStars": 45914,
+    "languages": []
+  },
+  {
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "userName": "jackfrued",
+    "repoName": "Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "numCommits": "206",
+    "numIssues": 66,
+    "numPRs": 12,
+    "numProjects": 0,
+    "numWatchers": 2000,
+    "numStars": 33123,
+    "languages": [
+      {
+        "language": "Jupyter Notebook",
+        "percent": 38
+      },
+      {
+        "language": "HTML",
+        "percent": 25.8
+      },
+      {
+        "language": "Python",
+        "percent": 19.4
+      },
+      {
+        "language": "JavaScript",
+        "percent": 9.9
+      },
+      {
+        "language": "CSS",
+        "percent": 6.9
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "userName": "MisterBooo",
+    "repoName": "LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "numCommits": "60",
+    "numIssues": 0,
+    "numPRs": 0,
+    "numProjects": 0,
+    "numWatchers": 1250,
+    "numStars": 27216,
+    "languages": [
+      {
+        "language": "Java",
+        "percent": 100
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/terminal",
+    "userName": "microsoft",
+    "repoName": "terminal",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "numCommits": "255",
+    "numIssues": 329,
+    "numPRs": 23,
+    "numProjects": 0,
+    "numWatchers": 963,
+    "numStars": 40732,
+    "languages": [
+      {
+        "language": "C++",
+        "percent": 91.7
+      },
+      {
+        "language": "C#",
+        "percent": 5.2
+      },
+      {
+        "language": "C",
+        "percent": 2
+      },
+      {
+        "language": "Assembly",
+        "percent": 0.3
+      },
+      {
+        "language": "Batchfile",
+        "percent": 0.3
+      },
+      {
+        "language": "PHP",
+        "percent": 0.2
+      },
+      {
+        "language": "Other",
+        "percent": 0.3
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/XiaoMi/Gaea",
+    "userName": "XiaoMi",
+    "repoName": "Gaea",
+    "desc": "Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.",
+    "numCommits": "12",
+    "numIssues": 2,
+    "numPRs": 0,
+    "numProjects": 0,
+    "numWatchers": 26,
+    "numStars": 351,
+    "languages": [
+      {
+        "language": "Go",
+        "percent": 92.8
+      },
+      {
+        "language": "Yacc",
+        "percent": 6.7
+      },
+      {
+        "language": "Other",
+        "percent": 0.5
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/TheAlgorithms/Python",
+    "userName": "TheAlgorithms",
+    "repoName": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "numCommits": "976",
+    "numIssues": 37,
+    "numPRs": 145,
+    "numProjects": 0,
+    "numWatchers": 2665,
+    "numStars": 42553,
+    "languages": [
+      {
+        "language": "Python",
+        "percent": 65.8
+      },
+      {
+        "language": "Jupyter Notebook",
+        "percent": 34.2
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/Eugeny/terminus",
+    "userName": "Eugeny",
+    "repoName": "terminus",
+    "desc": "A terminal for a more modern age",
+    "numCommits": "956",
+    "numIssues": 157,
+    "numPRs": 22,
+    "numProjects": 0,
+    "numWatchers": 181,
+    "numStars": 8552,
+    "languages": [
+      {
+        "language": "TypeScript",
+        "percent": 51.8
+      },
+      {
+        "language": "Lua",
+        "percent": 17.9
+      },
+      {
+        "language": "HTML",
+        "percent": 17.7
+      },
+      {
+        "language": "CSS",
+        "percent": 5.5
+      },
+      {
+        "language": "C++",
+        "percent": 3.3
+      },
+      {
+        "language": "JavaScript",
+        "percent": 3.3
+      },
+      {
+        "language": "Other",
+        "percent": 0.5
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/cloudkj/scar",
+    "userName": "cloudkj",
+    "repoName": "scar",
+    "desc": "Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.",
+    "numCommits": "29",
+    "numIssues": 5,
+    "numPRs": 0,
+    "numProjects": 0,
+    "numWatchers": 12,
+    "numStars": 1169,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 98.8
+      },
+      {
+        "language": "HTML",
+        "percent": 1.2
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/imfunniee/gitfolio",
+    "userName": "imfunniee",
+    "repoName": "gitfolio",
+    "desc": "personal website + blog for every github user",
+    "numCommits": "92",
+    "numIssues": 4,
+    "numPRs": 2,
+    "numProjects": 0,
+    "numWatchers": 40,
+    "numStars": 2402,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 43.3
+      },
+      {
+        "language": "CSS",
+        "percent": 39.6
+      },
+      {
+        "language": "HTML",
+        "percent": 17.1
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "userName": "Snailclimb",
+    "repoName": "JavaGuide",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "numCommits": "1,428",
+    "numIssues": 17,
+    "numPRs": 0,
+    "numProjects": 0,
+    "numWatchers": 2440,
+    "numStars": 41056,
+    "languages": [
+      {
+        "language": "Java",
+        "percent": 100
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/SerenityOS/serenity",
+    "userName": "SerenityOS",
+    "repoName": "serenity",
+    "desc": "Serenity Operating System",
+    "numCommits": "2,508",
+    "numIssues": 28,
+    "numPRs": 1,
+    "numProjects": 0,
+    "numWatchers": 41,
+    "numStars": 1287,
+    "languages": [
+      {
+        "language": "C++",
+        "percent": 90.8
+      },
+      {
+        "language": "C",
+        "percent": 7.9
+      },
+      {
+        "language": "Other",
+        "percent": 1.3
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/BinomialLLC/basis_universal",
+    "userName": "BinomialLLC",
+    "repoName": "basis_universal",
+    "desc": "Basis Universal GPU Texture Codec",
+    "numCommits": "186",
+    "numIssues": 6,
+    "numPRs": 1,
+    "numProjects": 0,
+    "numWatchers": 35,
+    "numStars": 808,
+    "languages": [
+      {
+        "language": "C++",
+        "percent": 82.6
+      },
+      {
+        "language": "PHP",
+        "percent": 11.6
+      },
+      {
+        "language": "JavaScript",
+        "percent": 3.6
+      },
+      {
+        "language": "C",
+        "percent": 1.7
+      },
+      {
+        "language": "HTML",
+        "percent": 0.4
+      },
+      {
+        "language": "CMake",
+        "percent": 0.1
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "userName": "CyC2018",
+    "repoName": "CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "numCommits": "3,234",
+    "numIssues": 21,
+    "numPRs": 2,
+    "numProjects": 0,
+    "numWatchers": 3451,
+    "numStars": 63445,
+    "languages": [
+      {
+        "language": "Java",
+        "percent": 33.4
+      },
+      {
+        "language": "Python",
+        "percent": 33.3
+      },
+      {
+        "language": "C++",
+        "percent": 33.3
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/facebookresearch/pythia",
+    "userName": "facebookresearch",
+    "repoName": "pythia",
+    "desc": "A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)",
+    "numCommits": "295",
+    "numIssues": 2,
+    "numPRs": 3,
+    "numProjects": 0,
+    "numWatchers": 73,
+    "numStars": 2023,
+    "languages": [
+      {
+        "language": "Python",
+        "percent": 98.8
+      },
+      {
+        "language": "Other",
+        "percent": 1.2
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/xdspacelab/openvslam",
+    "userName": "xdspacelab",
+    "repoName": "openvslam",
+    "desc": "A Versatile Visual SLAM Framework",
+    "numCommits": "58",
+    "numIssues": 8,
+    "numPRs": 0,
+    "numWatchers": 40,
+    "numStars": 710,
+    "languages": [
+      {
+        "language": "C++",
+        "percent": 95.3
+      },
+      {
+        "language": "CMake",
+        "percent": 4.1
+      },
+      {
+        "language": "Other",
+        "percent": 0.6
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/SandboxEscaper/polarbearrepo",
+    "userName": "SandboxEscaper",
+    "repoName": "polarbearrepo",
+    "desc": "",
+    "numCommits": "16",
+    "numIssues": 3,
+    "numPRs": 0,
+    "numProjects": 0,
+    "numWatchers": 84,
+    "numStars": 669,
+    "languages": [
+      {
+        "language": "C++",
+        "percent": 86.9
+      },
+      {
+        "language": "C",
+        "percent": 13.1
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/azl397985856/leetcode",
+    "userName": "azl397985856",
+    "repoName": "leetcode",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "numCommits": "121",
+    "numIssues": 2,
+    "numPRs": 1,
+    "numProjects": 0,
+    "numWatchers": 370,
+    "numStars": 8086,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 100
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/agalwood/Motrix",
+    "userName": "agalwood",
+    "repoName": "Motrix",
+    "desc": "A full-featured download manager.",
+    "numCommits": "389",
+    "numIssues": 67,
+    "numPRs": 2,
+    "numProjects": 0,
+    "numWatchers": 168,
+    "numStars": 9937,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 61
+      },
+      {
+        "language": "Vue",
+        "percent": 26.6
+      },
+      {
+        "language": "CSS",
+        "percent": 12
+      },
+      {
+        "language": "HTML",
+        "percent": 0.4
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/dotnet/wpf",
+    "userName": "dotnet",
+    "repoName": "wpf",
+    "desc": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+    "numCommits": "432",
+    "numIssues": 188,
+    "numPRs": 25,
+    "numProjects": 3,
+    "numWatchers": 228,
+    "numStars": 3322,
+    "languages": [
+      {
+        "language": "C#",
+        "percent": 96.8
+      },
+      {
+        "language": "C++",
+        "percent": 1.4
+      },
+      {
+        "language": "C",
+        "percent": 0.6
+      },
+      {
+        "language": "Smalltalk",
+        "percent": 0.6
+      },
+      {
+        "language": "Roff",
+        "percent": 0.2
+      },
+      {
+        "language": "Smarty",
+        "percent": 0.2
+      },
+      {
+        "language": "Other",
+        "percent": 0.2
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/vuejs/vue",
+    "userName": "vuejs",
+    "repoName": "vue",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "numCommits": "3,016",
+    "numIssues": 201,
+    "numPRs": 78,
+    "numProjects": 3,
+    "numWatchers": 5882,
+    "numStars": 139377,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 97.7
+      },
+      {
+        "language": "Other",
+        "percent": 2.3
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/playcanvas/engine",
+    "userName": "playcanvas",
+    "repoName": "engine",
+    "desc": "Fast and lightweight WebGL game engine",
+    "numCommits": "8,043",
+    "numIssues": 147,
+    "numPRs": 24,
+    "numProjects": 0,
+    "numWatchers": 322,
+    "numStars": 4510,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 97.6
+      },
+      {
+        "language": "GLSL",
+        "percent": 2.4
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/sveltejs/svelte",
+    "userName": "sveltejs",
+    "repoName": "svelte",
+    "desc": "Cybernetically enhanced web apps",
+    "numCommits": "4,375",
+    "numIssues": 301,
+    "numPRs": 42,
+    "numProjects": 0,
+    "numWatchers": 362,
+    "numStars": 16534,
+    "languages": [
+      {
+        "language": "JavaScript",
+        "percent": 38.3
+      },
+      {
+        "language": "TypeScript",
+        "percent": 31.7
+      },
+      {
+        "language": "HTML",
+        "percent": 29
+      },
+      {
+        "language": "Other",
+        "percent": 1
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/macrozheng/mall",
+    "userName": "macrozheng",
+    "repoName": "mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "numCommits": "254",
+    "numIssues": 14,
+    "numPRs": 2,
+    "numProjects": 0,
+    "numWatchers": 818,
+    "numStars": 13890,
+    "languages": [
+      {
+        "language": "Java",
+        "percent": 100
+      }
+    ]
+  },
+  {
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "userName": "dwmkerr",
+    "repoName": "hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful.",
+    "numCommits": "104",
+    "numIssues": 42,
+    "numPRs": 8,
+    "numProjects": 0,
+    "numWatchers": 152,
+    "numStars": 5702,
+    "languages": []
+  }
+]
