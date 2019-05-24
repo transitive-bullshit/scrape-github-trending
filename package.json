@@ -1,6 +1,6 @@
 {
   "name": "scrape-github-trending",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tutorial for web scraping / crawling with Node.js.",
   "main": "index.js",
   "repository": "transitive-bullshit/scrape-github-trending",
