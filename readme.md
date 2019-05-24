@@ -16,6 +16,8 @@ yarn install
 node index.js
 ```
 
+Here is an [example output](./example-output.json).
+
 ## License
 
 MIT © [Travis Fischer](https://transitivebullsh.it)
