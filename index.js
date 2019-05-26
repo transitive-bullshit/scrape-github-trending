@@ -44,7 +44,7 @@ async function processDetailPage (repo) {
     const { body } = await got(repo.url)
 
     const $ = cheerio.load(body)
-    const numCommits = $('.commits span').text().trim()
+    const numCommits = parseInt($('.commits span').text().trim().replace(/,/g, ''))
 
     const [
       numIssues,
