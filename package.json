@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "p-map": "^2.1.0"
   },
   "devDependencies": {
